@@ -1,6 +1,3 @@
-# Ordner ausschließen
-server/
-
 # User-specific stuff
 .idea/
 
@@ -114,4 +111,3 @@ buildNumber.properties
 
 # Common working directory
 run/
-/server/
