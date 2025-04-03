@@ -1,0 +1,15 @@
+#
+# All permissions required for the configuration of statistics are listed here
+#
+Permissions:
+  - statistics.info     -   For the commands /statistik and /stats
+  - statistics.
+  - statistics.
+  - statistics.
+  - statistics.
+  - statistics.
+  - statistics.
+  - statistics.
+  - statistics.
+  - statistics.
+  - statistics.

@@ -6,7 +6,4 @@ api-version: '1.21'
 commands:
   statistics:
     description: "Info about Statistics"
-    aliases:
-  stats:
-    description: "Info about Statistics"
-    aliases:
+    aliases: stats
