@@ -1,4 +1,4 @@
-package eu.gamerfreak.statistics.userevents;
+package eu.gamerfreak.statistics.userEvents;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
