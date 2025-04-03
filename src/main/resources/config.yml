@@ -1,7 +1,7 @@
 MySQL:  #Here you can edit your MySQL database configuration
   enable: true   #You must first set to true to activate the MySQL service
-  User: 'User'
-  Password: 'Password'
-  Database: 'minecraft-statistic_db'
-  Host: 'Database-Host.de'
-  Port: '3306'
+  User: USER333670_demo
+  Password: Cnzur6rZSZVJZdg295gl6ka1JabBrmqqBPmmEmN44pTVeuAxkvizlqJhv9SUl
+  Database: db_333670_22
+  Host: gamerfreak.lima-db.de
+  Port: "3306"
