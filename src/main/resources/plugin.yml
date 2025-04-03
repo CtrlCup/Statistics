@@ -1,0 +1,12 @@
+name: Statistics
+version: '1.0-SNAPSHOT'
+main: eu.gamerfreak.statistics.Statistics
+api-version: '1.21'
+
+commands:
+  statistics:
+    description: "Info about Statistics"
+    aliases:
+  stats:
+    description: "Info about Statistics"
+    aliases:
